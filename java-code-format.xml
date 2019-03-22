@@ -2,5 +2,6 @@
 <profiles version="13">
 <profile kind="CodeFormatterProfile" name="unexpected_joining" version="13">
 <setting id="org.eclipse.jdt.core.formatter.join_wrapped_lines" value="false"/>
+<setting id="org.eclipse.jdt.core.formatter.alignment_for_enum_constants" value="16"/>
 </profile>
 </profiles>
